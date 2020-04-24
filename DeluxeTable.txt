@@ -1,0 +1,15 @@
+\begin{deluxetable}{c|l|}
+
+\tablehead{ 
+\colhead{one} & \colhead{two
+}
+}
+
+
+\startdata
+1&2\\ \hline
+\enddata
+
+\caption{HI!} 
+
+\end{deluxetable}
